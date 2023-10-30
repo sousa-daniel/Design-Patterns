@@ -16,11 +16,6 @@
   - [Command](#command)
   - [Proxy](#proxy)
 
-These aren't needed for the exam:
-
-- Facade
-- Proxy Memoization
-
 ## Strategy 
 [(Source Code)](./Strategy/)
 
